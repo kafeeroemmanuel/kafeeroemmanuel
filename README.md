@@ -10,4 +10,4 @@ I have been learning to code for 2.5years, after switching careers. I am passion
 *   ✉️  You can contact me at [emmanuelkafeero3@gmail.com](mailto:emmanuelkafeero3@gmail.com)
 *   🧠  I'm learning Nodejs
 *   🤝  I'm open to collaborating on interesting projects
-*   💻  See my portfolio at kafeeroemmanuel.github.io/
+*   💻  See my portfolio at [kafeeroemmanuel.github.io/](https://kafeeroemmanuel.github.io/)
